@@ -1,0 +1,9 @@
+* What's Emacs
+GUN Emacs（不仅仅）是一个可扩展、可定制的文本编辑器。它的核心是一个Emacs Lisp解释器，Emacs Lisp是一种为支持文本编辑提供了多种扩展的Lisp语言方言。
+
+Emacs的功能包括：
+- 多种内容敏感的编辑模式，包括对不同类型文件的语法高亮（纯文本、源代码、HTML）；
+- 完整的内建文档，包括新手教程；
+- 对几乎所有的人类语言提供完整的[[http://unicode.org/][Unicode]]支持；
+- 可以使用Emacs Lisp代码或图形界面实现高度定制；
+- 大量的扩展增加了各种功能，包括[[https://www.gnu.org/software/emacs/manual/org.html][project planner]]、[[https://www.gnu.org/software/emacs/manual/gnus.html][邮件和新闻阅读器]]、[[http://www.gnu.org/software/emacs/manual/html_node/emacs/Debuggers.html][debugger interface]]、[[https://www.gnu.org/software/emacs/manual/html_node/emacs/Calendar_002fDiary.html][日历]]等等。许多扩展已经随GUN Emacs部署，其他的可以[[https://www.gnu.org/software/emacs/#Further][单独支持]]。
